@@ -1,4 +1,4 @@
-# node-temper1
+# node-temperNTC
 
 A node module to measure temperatures with a temperNTC usb thermometer from pcsensors.com. 
 ## Prerequisites:
@@ -27,3 +27,4 @@ thermometers.readTemperature(devices[0], function(err, value) {
 
 ## Sponsors
 node-temperNTC is sponsored by http://kwiqly.com
+
